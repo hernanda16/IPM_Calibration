@@ -1,0 +1,7 @@
+/run/media/her/Data/IRIS/camera_calibration/build/CMakeFiles/capture_checkerboard.dir
+/run/media/her/Data/IRIS/camera_calibration/build/CMakeFiles/camera_calibration.dir
+/run/media/her/Data/IRIS/camera_calibration/build/CMakeFiles/undistord_capture.dir
+/run/media/her/Data/IRIS/camera_calibration/build/CMakeFiles/trapezoidal_clicker.dir
+/run/media/her/Data/IRIS/camera_calibration/build/CMakeFiles/ipm.dir
+/run/media/her/Data/IRIS/camera_calibration/build/CMakeFiles/edit_cache.dir
+/run/media/her/Data/IRIS/camera_calibration/build/CMakeFiles/rebuild_cache.dir

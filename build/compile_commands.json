@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/run/media/her/Data/IRIS/camera_calibration/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/capture_checkerboard.dir/capture_checkerboard.cpp.o -c /run/media/her/Data/IRIS/camera_calibration/capture_checkerboard.cpp",
+  "file": "/run/media/her/Data/IRIS/camera_calibration/capture_checkerboard.cpp",
+  "output": "CMakeFiles/capture_checkerboard.dir/capture_checkerboard.cpp.o"
+},
+{
+  "directory": "/run/media/her/Data/IRIS/camera_calibration/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/camera_calibration.dir/camera_calibration.cpp.o -c /run/media/her/Data/IRIS/camera_calibration/camera_calibration.cpp",
+  "file": "/run/media/her/Data/IRIS/camera_calibration/camera_calibration.cpp",
+  "output": "CMakeFiles/camera_calibration.dir/camera_calibration.cpp.o"
+},
+{
+  "directory": "/run/media/her/Data/IRIS/camera_calibration/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/undistord_capture.dir/undistord_capture.cpp.o -c /run/media/her/Data/IRIS/camera_calibration/undistord_capture.cpp",
+  "file": "/run/media/her/Data/IRIS/camera_calibration/undistord_capture.cpp",
+  "output": "CMakeFiles/undistord_capture.dir/undistord_capture.cpp.o"
+},
+{
+  "directory": "/run/media/her/Data/IRIS/camera_calibration/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/trapezoidal_clicker.dir/trapezoidal_clicker.cpp.o -c /run/media/her/Data/IRIS/camera_calibration/trapezoidal_clicker.cpp",
+  "file": "/run/media/her/Data/IRIS/camera_calibration/trapezoidal_clicker.cpp",
+  "output": "CMakeFiles/trapezoidal_clicker.dir/trapezoidal_clicker.cpp.o"
+},
+{
+  "directory": "/run/media/her/Data/IRIS/camera_calibration/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/ipm.dir/ipm.cpp.o -c /run/media/her/Data/IRIS/camera_calibration/ipm.cpp",
+  "file": "/run/media/her/Data/IRIS/camera_calibration/ipm.cpp",
+  "output": "CMakeFiles/ipm.dir/ipm.cpp.o"
+}
+]
